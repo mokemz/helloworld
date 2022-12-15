@@ -1,0 +1,15 @@
+C:\Users\Пользователь_MSI\Documents\c# 1 lecture\example1_HelloConsole\bin\Debug\net7.0\example1_HelloConsole.exe
+C:\Users\Пользователь_MSI\Documents\c# 1 lecture\example1_HelloConsole\bin\Debug\net7.0\example1_HelloConsole.deps.json
+C:\Users\Пользователь_MSI\Documents\c# 1 lecture\example1_HelloConsole\bin\Debug\net7.0\example1_HelloConsole.runtimeconfig.json
+C:\Users\Пользователь_MSI\Documents\c# 1 lecture\example1_HelloConsole\bin\Debug\net7.0\example1_HelloConsole.dll
+C:\Users\Пользователь_MSI\Documents\c# 1 lecture\example1_HelloConsole\bin\Debug\net7.0\example1_HelloConsole.pdb
+C:\Users\Пользователь_MSI\Documents\c# 1 lecture\example1_HelloConsole\obj\Debug\net7.0\example1_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\Пользователь_MSI\Documents\c# 1 lecture\example1_HelloConsole\obj\Debug\net7.0\example1_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь_MSI\Documents\c# 1 lecture\example1_HelloConsole\obj\Debug\net7.0\example1_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\Пользователь_MSI\Documents\c# 1 lecture\example1_HelloConsole\obj\Debug\net7.0\example1_HelloConsole.AssemblyInfo.cs
+C:\Users\Пользователь_MSI\Documents\c# 1 lecture\example1_HelloConsole\obj\Debug\net7.0\example1_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь_MSI\Documents\c# 1 lecture\example1_HelloConsole\obj\Debug\net7.0\example1_HelloConsole.dll
+C:\Users\Пользователь_MSI\Documents\c# 1 lecture\example1_HelloConsole\obj\Debug\net7.0\refint\example1_HelloConsole.dll
+C:\Users\Пользователь_MSI\Documents\c# 1 lecture\example1_HelloConsole\obj\Debug\net7.0\example1_HelloConsole.pdb
+C:\Users\Пользователь_MSI\Documents\c# 1 lecture\example1_HelloConsole\obj\Debug\net7.0\example1_HelloConsole.genruntimeconfig.cache
+C:\Users\Пользователь_MSI\Documents\c# 1 lecture\example1_HelloConsole\obj\Debug\net7.0\ref\example1_HelloConsole.dll
